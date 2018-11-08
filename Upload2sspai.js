@@ -4,9 +4,9 @@ String.prototype.urlsafe = function() {
 }
 //计算Token
 //你的AK
-var AK = "MBaW-xJUKzoqiARjuYw0iQsGVbZbv4rq8umfDgnL"
+var AK = ""
 //你的SK
-var SK = "KOXdPsPRaHGfSsyvXKc8XxDuUXv48ULjSR9qSw8d"
+var SK = ""
 //你的储存空间名
 var bucket = "sspai"
 //你的储存域名
